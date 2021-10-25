@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Assignment 2</string>
+    <string name="prodType">Product Type</string>
+    <string name="prodTotal">Total</string>
+    <string name="prodQuantity">Quantity</string>
+    <string name="btnZero">0</string>
+    <string name="btnOne">1</string>
+    <string name="btnTwo">2</string>
+    <string name="btnThree">3</string>
+    <string name="btnFour">4</string>
+    <string name="btnFive">5</string>
+    <string name="btnSix">6</string>
+    <string name="btnSeven">7</string>
+    <string name="btnEight">8</string>
+    <string name="btnNine">9</string>
+    <string name="btnClear">C</string>
+    <string name="btnBuy">Buy</string>
+    <string name="btnManager">Manager</string>
+    <string name="btnHistory">History</string>
+</resources>
