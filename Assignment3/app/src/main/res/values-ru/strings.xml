@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">проект 3</string>
+    <string name="btnTrue">да</string>
+    <string name="btnFalse">нет</string>
+    <string name="questionOne">Торонто является столицей Онтарио</string>
+    <string name="questionTwo">Монреаль является столицей Квебека</string>
+    <string name="questionThree">Рейкьявик является столицей Исландии</string>
+    <string name="questionFour">Краснодар является столицей России</string>
+    <string name="questionFive">Нью-Йорк является столицей США</string>
+    <string name="questionSix">Виктория является столицей Альберты</string>
+    <string name="questionSeven">Берлин является столицей Германии</string>
+    <string name="questionEight">Марсель является столицей Франции</string>
+</resources>

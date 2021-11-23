@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Assignment 3</string>
+    <string name="btnTrue">true</string>
+    <string name="btnFalse">false</string>
+    <string name="questionOne">Toronto is the capital of Ontario</string>
+    <string name="questionTwo">Montreal is the capital of Quebec</string>
+    <string name="questionThree">Reykjavik is the capital city of Iceland</string>
+    <string name="questionFour">Krasnodar is the capital of Russia</string>
+    <string name="questionFive">New York is the capital of United States</string>
+    <string name="questionSix">Victoria is the capital of Alberta</string>
+    <string name="questionSeven">Berlin is the capital of Germany</string>
+    <string name="questionEight">Marseille is the capital of France</string>
+</resources>
